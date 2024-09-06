@@ -25,6 +25,15 @@ npm install cloak-stealth
 }
 ```
 
+
+2. Run your application using:
+
+```bash
+
+npm start
+
+```
+
 ## Usage
 
 Here's a basic example of how to use `cloak-stealth`:
