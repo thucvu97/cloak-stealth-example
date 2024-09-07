@@ -11,6 +11,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "cloak-stealth": "^1.2.2"
+    "cloak-stealth": "^1.2.3"
   }
 }
