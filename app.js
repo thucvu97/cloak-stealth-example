@@ -2,7 +2,7 @@ import CloakStealth from "cloak-stealth";
 
 async function main() {
   const CloakStealthManager = new CloakStealth({
-    apiKey: "lsk_3159f14d244956df9c1af13522bd6efad9960981f1c02402",
+    apiKey: "xxx",
     windowOptions: { cols: 1, rows: 1 },
     clearCacheAndHistory: true,
     turnstile: true,
